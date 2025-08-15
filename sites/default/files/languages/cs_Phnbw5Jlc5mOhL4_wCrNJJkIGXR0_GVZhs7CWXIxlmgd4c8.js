@@ -1,0 +1,1 @@
+/* Czech language - minimal version */
